@@ -1,0 +1,11 @@
+ipywidgets
+notebook
+ensure
+
+# dev reqs
+pytest
+tox
+black
+flake8
+mypy
+-e .    #Install local packages
