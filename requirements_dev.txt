@@ -1,8 +1,8 @@
-ipywidgets
-notebook
-ensure
+# Add requirements as per need
+
 
 # dev reqs
+# update versions as of need
 pytest
 tox
 black
