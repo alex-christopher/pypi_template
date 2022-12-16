@@ -16,16 +16,16 @@ logging.info(f"Creatinf project name by {project_name}")
 
 list_of_files = [
     f"src/{project_name}/__init__.py",
-    "tests/__init__.py",    #Default test file
-    "tests/unit/__init__.py",   #Dummy test available
-    "tests/integration/__init__.py",    #Dummy test available
-    "init_setup.sh",    #Change as per need
-    "requirements.txt", #Basic requirements
-    "requirements_dev.txt", #Dev testing
-    "setup.py", #Change as of need
-    "pyprojecct.toml",  
-    "setup.cfg",
-    "tox.ini" #Testing on various environments
+    #"tests/__init__.py",    #Default test file
+    #"tests/unit/__init__.py",   #Dummy test available
+    #"tests/integration/__init__.py",    #Dummy test available
+    #"init_setup.sh",    #Change as per need
+    #requirements.txt", #Basic requirements
+    #"requirements_dev.txt", #Dev testing
+    #"setup.py", #Change as of need
+    #"pyprojecct.toml",  
+    #"setup.cfg",
+    #"tox.ini" #Testing on various environments
 ]
 
 for filepath in list_of_files:
